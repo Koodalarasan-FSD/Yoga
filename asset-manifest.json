@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/Yoga/static/css/main.d4f4e83c.css",
+    "main.js": "/Yoga/static/js/main.8ea78921.js",
+    "static/js/453.e5b8f2de.chunk.js": "/Yoga/static/js/453.e5b8f2de.chunk.js",
+    "static/media/2.png": "/Yoga/static/media/2.3f7af6e497f79b16f5a8.png",
+    "static/media/3.png": "/Yoga/static/media/3.ba1f7ea598a15e42f62d.png",
+    "static/media/1.png": "/Yoga/static/media/1.a88cf410d587d47345a7.png",
+    "static/media/about.png": "/Yoga/static/media/about.3573afe06a3f45354207.png",
+    "static/media/5.png": "/Yoga/static/media/5.c5f808bb564070dd36a6.png",
+    "static/media/4.png": "/Yoga/static/media/4.c0588d74538a16870f9e.png",
+    "static/media/6.png": "/Yoga/static/media/6.cd8619f2a102a7ad0538.png",
+    "static/media/big.jpg": "/Yoga/static/media/big.a1a817115556ca883da2.jpg",
+    "static/media/3.jpg": "/Yoga/static/media/3.36d074be4be9925f042e.jpg",
+    "static/media/wwd-bg.jpg": "/Yoga/static/media/wwd-bg.373ab359c5f1b1e8922a.jpg",
+    "static/media/7.jpg": "/Yoga/static/media/7.e7e4774206ac6c041fe1.jpg",
+    "static/media/9.jpg": "/Yoga/static/media/9.509b9c04e8d386bfeefd.jpg",
+    "static/media/5.jpg": "/Yoga/static/media/5.b38a2ad82a269b19b79a.jpg",
+    "static/media/4.jpg": "/Yoga/static/media/4.d08289213115a83d22e4.jpg",
+    "static/media/1.jpg": "/Yoga/static/media/1.31e5a19a64cd5b638786.jpg",
+    "static/media/page-top-bg.jpg": "/Yoga/static/media/page-top-bg.d9c632655d4b15497a19.jpg",
+    "static/media/video.jpg": "/Yoga/static/media/video.70b3f430938dbc457025.jpg",
+    "static/media/6.jpg": "/Yoga/static/media/6.ecd5c625d1ce467dca65.jpg",
+    "static/media/8.jpg": "/Yoga/static/media/8.41003e0f9dc2535d62b5.jpg",
+    "static/media/2.jpg": "/Yoga/static/media/2.d57946a64bbcb9bd60a8.jpg",
+    "index.html": "/Yoga/index.html",
+    "main.d4f4e83c.css.map": "/Yoga/static/css/main.d4f4e83c.css.map",
+    "main.8ea78921.js.map": "/Yoga/static/js/main.8ea78921.js.map",
+    "453.e5b8f2de.chunk.js.map": "/Yoga/static/js/453.e5b8f2de.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d4f4e83c.css",
+    "static/js/main.8ea78921.js"
+  ]
+}
