@@ -78,7 +78,7 @@ export const Footer = () => {
                                 <div class="copyright">
                                     {/*<!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->*/}
                                     {/*Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved |*/}
-                                    I Created these sites by using ReactJS but I took all contents from <i class="fa fa-heart-o" aria-hidden="true"></i> from <Link to="https://colorlib.com">Colorlib</Link>
+                                    I Created these sites by using ReactJS but I took all contents <i class="fa fa-heart-o" aria-hidden="true"></i> from <Link to="https://colorlib.com">Colorlib</Link>
                                     {/*<!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->*/}
                                 </div>
                             </div>
